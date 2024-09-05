@@ -1,5 +1,4 @@
 # Coffee Sales Dashboard - Data Analysis Solution
-Coffee Sales Dashboard - Reflecting Sales through the years across various countries
 
 ## Project Overview
 This project focuses on analyzing coffee sales data to generate valuable business insights. By processing coffee sales records, customer details, and product data, this dashboard aims to assist decision-makers in tracking performance, identifying trends, and optimizing marketing strategies.
