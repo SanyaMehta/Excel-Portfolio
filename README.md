@@ -16,7 +16,8 @@ Target key customer segments with personalized offers
 2. Who are the top customers contributing to sales?
 3. How does product size or loyalty card ownership impact total sales? This dashboard drives data-informed business strategies for the coffee retail industry.
 
-https://files.oaiusercontent.com/file-glTOSR5ZtVBXemuRcCbI4Row?se=2024-09-05T03%3A47%3A06Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DScreenshot%25202024-09-05%2520at%25201.40.10%25E2%2580%25AFpm.png&sig=UbzvIsLEyo/pHZLDyOYEm0IpFjGPcx7wIdZrvfnuANY%3D![image](https://github.com/user-attachments/assets/ab4a95c2-8b8e-4c2d-b61b-37198ae7e0e0)
+<img width="1183" alt="image" src="https://github.com/user-attachments/assets/f8a42fc9-5abc-42a4-8aeb-abc0924feae1">
+
 
 ## Key Features
 Interactive Filters (Slicers): The dashboard includes slicers for coffee size, loyalty card ownership, and coffee roast type, making it easy to analyze specific segments of data.
